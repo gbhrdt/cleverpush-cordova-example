@@ -1,0 +1,7 @@
+{
+  "name": "cleverpush-cordova-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
