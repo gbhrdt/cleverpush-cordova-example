@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cleverpush-cordova-example</string>
+    <string name="title_activity_main">cleverpush-cordova-example</string>
+    <string name="package_name">com.cleverpush.example</string>
+    <string name="custom_url_scheme">com.cleverpush.example</string>
+</resources>
